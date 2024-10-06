@@ -1,4 +1,4 @@
-# Auralin Clinical Trial Data Analysis
+# Clinical Trial Data Analysis
 
 Cleaning and analysis of dirty clinical trial data testing the efficacy of a new drug (Auralin). 
 
